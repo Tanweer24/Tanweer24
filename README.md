@@ -12,7 +12,7 @@ I'm a B.Tech Computer Science & Engineering student interested in Data Science, 
 
 ##  Connect With Me
 
--  LinkedIn: [LinkedIn](www.linkedin.com/in/tanweeralam24)
+-  LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanweeralam24/)
 -  GitHub: [GitHub](https://github.com/Tanweer24)
 
 
